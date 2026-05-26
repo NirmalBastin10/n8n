@@ -27,7 +27,7 @@ services:
         value: postgres.rcybdotjwfoesxzgksen
 
       - key: DB_POSTGRESDB_PASSWORD
-        value: YOUR_SUPABASE_PASSWORD
+        value: Nirmal@336427
 
       - key: DB_POSTGRESDB_SSL_REJECT_UNAUTHORIZED
         value: false
